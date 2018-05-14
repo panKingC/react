@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7cc5abf7-e845-418a-b62f-e065530c965b" name="Default" comment="0.0.0" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/viewGitApp/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="702">
+              <caret line="26" column="4" lean-forward="false" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.android.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/viewGitApp/index.android.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="625">
+              <caret line="102" column="0" lean-forward="true" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#89#128#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="A.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/viewGitApp/jpJS/A.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1296">
+              <caret line="48" column="5" lean-forward="false" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TabBarTest.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/viewGitApp/jpJS/TabBarTest.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2403">
+              <caret line="89" column="1" lean-forward="false" selection-start-line="89" selection-start-column="1" selection-end-line="89" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EIComponent.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo01/EIComponent.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="flexboxTest.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo01/flexboxTest.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="6" column="93" lean-forward="false" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="93" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TabTrending.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/viewGitApp/jpJS/TabBottom/TabTrending.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="20" column="15" lean-forward="false" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TabPopular.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/viewGitApp/jpJS/TabBottom/TabPopular.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="648">
+              <caret line="24" column="30" lean-forward="false" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TabFavorite.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/viewGitApp/jpJS/TabBottom/TabFavorite.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TabUser.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/viewGitApp/jpJS/TabBottom/TabUser.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>keyword</find>
+      <find>element-ui</find>
+      <find>dailySales</find>
+      <find>10.0.0</find>
+      <find>10.0.2</find>
+      <find>10.0.</find>
+      <find>8081</find>
+      <find>getH</find>
+      <find>container</find>
+      <find>slectedTab</find>
+      <find>red</find>
+    </findStrings>
+    <dirStrings>
+      <dir>D:\editCode\RN\demo01</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/viewGitApp/viewGItApp" />
+    <option name="AUTO_COMMIT_ON_CHERRY_PICK" value="true" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/yiyuangou/yiyuangou/src/page/layout.vue" />
+        <option value="$PROJECT_DIR$/demo01/App.js" />
+        <option value="$PROJECT_DIR$/DZDP/test/package.json" />
+        <option value="$PROJECT_DIR$/demo01/index.js" />
+        <option value="$PROJECT_DIR$/demo01/HelloComponent.js" />
+        <option value="$PROJECT_DIR$/demo01/lifeCycleComponent.js" />
+        <option value="$PROJECT_DIR$/demo01/EIComponent.js" />
+        <option value="$PROJECT_DIR$/demo01/PropsTestComponent.js" />
+        <option value="$PROJECT_DIR$/demo01/RefTestComponent.js" />
+        <option value="$PROJECT_DIR$/demo01/student.js" />
+        <option value="$PROJECT_DIR$/demo01/JJstudent.js" />
+        <option value="$PROJECT_DIR$/demo01/stateComponent.js" />
+        <option value="$PROJECT_DIR$/demo01/flexboxTest.js" />
+        <option value="$PROJECT_DIR$/demo01/TouchableTest.js" />
+        <option value="$PROJECT_DIR$/demo01/setup.js" />
+        <option value="$PROJECT_DIR$/demo01/ImageTest.js" />
+        <option value="$PROJECT_DIR$/RN01/RN01/App.js" />
+        <option value="$PROJECT_DIR$/github/index.js" />
+        <option value="$PROJECT_DIR$/github/App.js" />
+        <option value="$PROJECT_DIR$/github/githubApp/js/test.js" />
+        <option value="$PROJECT_DIR$/github/githubApp/js/Test.js" />
+        <option value="$PROJECT_DIR$/github/githubApp/package.json" />
+        <option value="$PROJECT_DIR$/github/githubApp/js/TabBar.js" />
+        <option value="$PROJECT_DIR$/github/githubApp/index.js" />
+        <option value="$PROJECT_DIR$/github/githubApp/App.js" />
+        <option value="$PROJECT_DIR$/gitHubApp/APP/githubApp/aaa.html" />
+        <option value="$PROJECT_DIR$/gitHubApp/app00/githubApp/sga.html" />
+        <option value="$PROJECT_DIR$/RN00/SG.html" />
+        <option value="$PROJECT_DIR$/RN00/githubApp/js/image.js" />
+        <option value="$PROJECT_DIR$/RN00/githubApp/js/Image.js" />
+        <option value="$PROJECT_DIR$/RN00/githubApp/js/ImageTest.js" />
+        <option value="$PROJECT_DIR$/RN00/githubApp/js/TabBar.js" />
+        <option value="$PROJECT_DIR$/RN00/githubApp/package.json" />
+        <option value="$PROJECT_DIR$/RN00/githubApp/App.js" />
+        <option value="$PROJECT_DIR$/githubApp/jpJS/A.js" />
+        <option value="$PROJECT_DIR$/githubApp/jpJS/B.js" />
+        <option value="$PROJECT_DIR$/githubApp/package.json" />
+        <option value="$PROJECT_DIR$/githubApp/App.js" />
+        <option value="$PROJECT_DIR$/viewGitApp/jpJS/B.js" />
+        <option value="$PROJECT_DIR$/viewGitApp/package.json" />
+        <option value="$PROJECT_DIR$/viewGitApp/jpJS/A.js" />
+        <option value="$PROJECT_DIR$/viewGitApp/jpJS/TabBottom/TabShop.js" />
+        <option value="$PROJECT_DIR$/viewGitApp/jpJS/TabBottom/TabMail.js" />
+        <option value="$PROJECT_DIR$/viewGitApp/jpJS/TabBottom/TabFavorate.js" />
+        <option value="$PROJECT_DIR$/viewGitApp/jpJS/TabBottom/TabUser.js" />
+        <option value="$PROJECT_DIR$/viewGitApp/jpJS/TabBottom/TabHome.js" />
+        <option value="$PROJECT_DIR$/viewGitApp/jpJS/TabBottom/TabTrending.js" />
+        <option value="$PROJECT_DIR$/viewGitApp/jpJS/TabBottom/TabFavorite.js" />
+        <option value="$PROJECT_DIR$/viewGitApp/jpJS/TabBottom/TabPopular.js" />
+        <option value="$PROJECT_DIR$/viewGitApp/index.android.js" />
+        <option value="$PROJECT_DIR$/viewGitApp/jpJS/TabBarTest.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/githubApp/package.json" />
+    <dismissed value="$PROJECT_DIR$/viewGitApp/package.json" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="182" />
+    <option name="y" value="19" />
+    <option name="width" value="1513" />
+    <option name="height" value="1024" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="RN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RN" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RN" type="462c0819:PsiDirectoryNode" />
+              <item name="demo01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RN" type="462c0819:PsiDirectoryNode" />
+              <item name="viewGitApp" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../reactCodeForGit" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\editCode\RN\viewGitApp\jpJS\TabBottom" />
+      <recent name="D:\editCode\RN\viewGitApp\jpJS" />
+      <recent name="D:\editCode\RN\githubApp" />
+      <recent name="D:\editCode\RN\demo01" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7cc5abf7-e845-418a-b62f-e065530c965b" name="Default" comment="" />
+      <created>1525414684759</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1525414684759</updated>
+      <workItem from="1525414686256" duration="7508000" />
+      <workItem from="1525655113161" duration="47110000" />
+      <workItem from="1525860059095" duration="8663000" />
+      <workItem from="1525935413548" duration="4786000" />
+      <workItem from="1525941209297" duration="2067000" />
+      <workItem from="1525943815724" duration="532000" />
+      <workItem from="1525945039332" duration="199000" />
+      <workItem from="1525945727149" duration="5310000" />
+      <workItem from="1526004179496" duration="21520000" />
+      <workItem from="1526260046053" duration="14962000" />
+      <workItem from="1526283611299" duration="87000" />
+    </task>
+    <task id="LOCAL-00001" summary="0.0.0">
+      <created>1525946695691</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1525946695691</updated>
+    </task>
+    <task id="LOCAL-00002" summary="0.0.0">
+      <created>1525946855957</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1525946855957</updated>
+    </task>
+    <task id="LOCAL-00003" summary="0.0.0">
+      <created>1525947003924</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1525947003924</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="112744000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="182" y="19" width="1513" height="1024" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23246492" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="D:\editCode\RN\gitHubApp\githubApp" />
+      <path value="D:\editCode\RN\github\githubApp" />
+      <path value="$PROJECT_DIR$" />
+      <path value="D:\editCode\RN\gitHubApp\githubApp\githubApp" />
+      <path value="D:\editCode\RN\gitHubApp\APP\githubApp" />
+      <path value="D:\editCode\RN\gitHubApp\app00\githubApp" />
+      <path value="$PROJECT_DIR$/RN00" />
+      <path value="D:\editCode\RN\RN00" />
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+    <MESSAGE value="0.0.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="0.0.0" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/demo01/TouchableTest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="85" column="17" lean-forward="false" selection-start-line="85" selection-start-column="17" selection-end-line="85" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo01/JJstudent.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="5" lean-forward="false" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/react-native/Libraries/Image/__tests__/resolveAssetSource-test.js" />
+    <entry file="file://$PROJECT_DIR$/example/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/systeminfo/AndroidInfoHelpers.java" />
+    <entry file="file://$PROJECT_DIR$/example/react-native/ReactCommon/cxxreact/JSCExecutor.cpp" />
+    <entry file="file://$PROJECT_DIR$/github/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/github/package.json" />
+    <entry file="file://$PROJECT_DIR$/github/index.js" />
+    <entry file="file://$PROJECT_DIR$/github/App.js" />
+    <entry file="file://$PROJECT_DIR$/demo01/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RN01/RN01/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-166">
+          <caret line="27" column="45" lean-forward="false" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/github/githubApp/js/Test.js" />
+    <entry file="file://$PROJECT_DIR$/github/githubApp/js/TabBar.js" />
+    <entry file="file://$PROJECT_DIR$/github/githubApp/index.js" />
+    <entry file="file://$PROJECT_DIR$/github/githubApp/app.json" />
+    <entry file="file://$PROJECT_DIR$/github/githubApp/package.json" />
+    <entry file="file://$PROJECT_DIR$/github/githubApp/App.js" />
+    <entry file="file://$PROJECT_DIR$/gitHubApp/APP/githubApp/aaa.html" />
+    <entry file="file://$PROJECT_DIR$/gitHubApp/app00/githubApp/sga.html" />
+    <entry file="file://$PROJECT_DIR$/RN01/RN01/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RN00/SG.html" />
+    <entry file="file://$PROJECT_DIR$/RN00/githubApp/app.json" />
+    <entry file="file://$PROJECT_DIR$/RN00/githubApp/.watchmanconfig" />
+    <entry file="file://$PROJECT_DIR$/RN00/githubApp/index.js" />
+    <entry file="file://$PROJECT_DIR$/demo01/ImageTest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="17" column="22" lean-forward="false" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RN00/githubApp/js/ImageTest.js" />
+    <entry file="file://$PROJECT_DIR$/RN00/githubApp/App.js" />
+    <entry file="file://$PROJECT_DIR$/RN00/githubApp/package.json" />
+    <entry file="file://$PROJECT_DIR$/RN00/githubApp/js/TabBar.js" />
+    <entry file="file://$PROJECT_DIR$/githubApp/jpJS/B.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="14" column="58" lean-forward="false" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#39#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/githubApp/app.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="1" lean-forward="false" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/githubApp/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo01/student.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo01/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="6" column="7" lean-forward="false" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo01/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo01/setup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#39#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo01/lifeCycleComponent.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/githubApp/jpJS/A.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="568">
+          <caret line="42" column="30" lean-forward="false" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/githubApp/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/githubApp/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="33" column="24" lean-forward="false" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+          <folding>
+            <element signature="e#89#128#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/viewGitApp/jpJS/B.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="16" column="25" lean-forward="false" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#39#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/viewGitApp/jpJS/A.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1296">
+          <caret line="48" column="5" lean-forward="false" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/viewGitApp/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="26" column="4" lean-forward="false" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/viewGitApp/jpJS/TabBottom/TabUser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/viewGitApp/jpJS/TabBottom/TabFavorite.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/viewGitApp/jpJS/TabBottom/TabTrending.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="20" column="15" lean-forward="false" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/viewGitApp/jpJS/TabBottom/TabPopular.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="24" column="30" lean-forward="false" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo01/EIComponent.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo01/flexboxTest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="6" column="93" lean-forward="false" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="93" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/viewGitApp/jpJS/TabBarTest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2403">
+          <caret line="89" column="1" lean-forward="false" selection-start-line="89" selection-start-column="1" selection-end-line="89" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/viewGitApp/index.android.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="102" column="0" lean-forward="true" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#89#128#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
