@@ -7,7 +7,7 @@
 import React, {Component} from 'react';
 import {AppRegistry, StyleSheet, Text, View, Image, Navigator} from 'react-native';
 // import TabNavigator from "react-native-tab-navigator";
-// import A from "./jpJS/A";
+import A from "./jpJS/A";
 import TabBarTest from "./jpJS/TabBarTest";
 
 export default class viewGitApp extends Component {
@@ -24,7 +24,7 @@ export default class viewGitApp extends Component {
                 <TabBarTest/>
                 {/*<Text>``2221111显示文本</Text>*/}
                 {/*<Text>塔图姆</Text>*/}
-                {/*<Navigator*/}
+                {/*<Navigator style={{width:750,height:500,backgroundColor:"red"}}*/}
                     {/*initialRoute={{*/}
                         {/*component: A*/}
                     {/*}}*/}
