@@ -17,8 +17,12 @@ import {
 // type Props = {};
 // export default class App extends Component<Props> {
 export default class HomePage extends Component {
+    constructor(props){
+        super(props);
+        this.mounted = true;
+    }
     static navigationOptions = {
-        title:"Home"
+        title: "Home"
     }
 
     render() {
@@ -31,17 +35,42 @@ export default class HomePage extends Component {
                 <Button
                     title="go to Page01"
                     onPress={() => {
-                        navigation.navigate("Page01",{
-                            name:"动态的title"
+                        navigation.navigate("Page01", {
+                            name: "动态的title"
                         })
                     }}/>
                 <Button
                     title="go to Page02"
                     onPress={() => {
-                        navigation.navigate("Page02")
+                        navigation.navigate("Page02", {
+                            title: "动态的PAGE02"
+                        })
+                    }}/>
+                <Button
+                    title="go to Page03"
+                    onPress={() => {
+                        navigation.navigate("Page03")
+                    }}/>
+                <Button
+                    title="go to TabNav"
+                    onPress={() => {
+                        navigation.navigate("TabNav")
+                    }}/>
+                <Button
+                    title="go to DrawerNavigator"
+                    onPress={() => {
+                        navigation.navigate("DrawerNav")
                     }}/>
             </View>
         );
+    }
+
+    componentDidMount() {
+        this.mounted = true;
+    }
+
+    componentWillUnmount() {
+        this.mounted = false;
     }
 }
 

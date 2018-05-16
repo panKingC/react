@@ -10,37 +10,27 @@ import {
     StyleSheet,
     Text,
     View,
-    Button,
-    Image
+    Button
 } from 'react-native';
+import Icon from "react-native-vector-icons/Ionicons";
 
-export default class Page01 extends Component {
+export default class Page03 extends Component {
     render() {
         const {navigation} = this.props;
         return (
             <View style={styles.container}>
                 <Text style={styles.welcome}>
-                    Page01
+                    Page03
                 </Text>
                 <Button
-                    title = "go to Page02"
+                    title = "BACK"
                     onPress = {()=>{
-                        // navigation.goBack();
-                        navigation.navigate("Page02");
+                        navigation.goBack();
                     }}
                 />
-                <Button
-                    title = "改变主题"
-                    onPress = {()=>{
-                        navigation.setParams({
-                            theme:{
-                                tintColor:"orange",
-                                updateTime:new Date().getTime()
-                            }
-                        })
-                    }}
-                />
-                <Image style={{width:60,height:60}} source={require("../res/images/ic_my.png")}/>
+                <Icon name="md-home" size={15} color="red" />
+                <Icon name="md-home" size={25} color="yellow" />
+                <Icon name="md-home" size={35} color="black" />
             </View>
         );
     }
@@ -51,7 +41,7 @@ const styles = StyleSheet.create({
         flex: 1,
         justifyContent: 'center',
         alignItems: 'center',
-        backgroundColor: 'green',
+        backgroundColor: 'gray',
     },
     welcome: {
         fontSize: 20,
